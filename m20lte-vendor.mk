@@ -58,7 +58,6 @@ PRODUCT_PACKAGES += \
     libmpbase \
     libsaiv_BeautySolutionVideo \
     libsensorlistener \
-    libskeymaster3device \
     libuniapi \
     libuniplugin \
     vendor.trustonic.tee@1.0 \
